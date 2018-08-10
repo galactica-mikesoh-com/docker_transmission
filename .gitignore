@@ -1,0 +1,9 @@
+config/resume/
+config/torrent/
+config/blacklist*
+config/stats.json
+config/dht.dat
+config/blocklists/*.bin
+config/blocklists/*.gz
+downloads/
+*.swp
