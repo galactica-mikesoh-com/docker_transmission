@@ -1,5 +1,5 @@
 config/resume/
-config/torrent/
+config/torrents/
 config/blacklist*
 config/stats.json
 config/dht.dat
