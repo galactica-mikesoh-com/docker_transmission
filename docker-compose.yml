@@ -4,7 +4,7 @@ version: '3.1'
 services:
   transmission-bt:
     image: linuxserver/transmission
-    # restart: always
+    restart: always
     ports: 
       - 9091:9091
       - 51413:51413
