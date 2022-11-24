@@ -4,10 +4,9 @@ Based on the [LinuxServer.io version of the transmission
 container](https://hub.docker.com/r/linuxserver/transmission/), this
 repo hosts my specific settings, but anyone can use it.
 
-## No Warranties
+## No longer maintained
 
-You are welcome to pull from the repository.  However, do not expect any
-support or help.  Pull Requests are ignored.
+This repository is now archived and is no longer maintained.
 
 ## License
 
